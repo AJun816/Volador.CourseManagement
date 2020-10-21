@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\ProjectCode\VsProject\Volador.CourseManagement\Volador.CourseManagement\obj\Debug\
+D:\GitHub\Volador816\Volador.CourseManagement\Volador.CourseManagement\obj\Debug\
 Volador.CourseManagement
 none
 false
 DEBUG;TRACE
-D:\ProjectCode\VsProject\Volador.CourseManagement\Volador.CourseManagement\App.xaml
-2-1869016735
+D:\GitHub\Volador816\Volador.CourseManagement\Volador.CourseManagement\App.xaml
+5-661239881
 
-11-392125354
-13-1505183044
-View\LoginView.xaml;View\MainView.xaml;
+20113513714
+161121951198
+Assets\Styles\DefaultStyle.xaml;View\CoursePageView.xaml;View\FishPageView.xaml;View\LoginView.xaml;View\MainView.xaml;
 
 False
 

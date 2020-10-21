@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\ProjectCode\VsProject\Volador.CourseManagement\Volador.CourseManagement\App.xaml
-2-1869016735
+5-661239881
 
-12-1234484721
-13-1505183044
-View\LoginView.xaml;View\MainView.xaml;
+21-728845653
+16440825386
+Assets\Styles\DefaultStyle.xaml;View\CoursePageView.xaml;View\FishPageView.xaml;View\LoginView.xaml;View\MainView.xaml;
 
-True
+False
 
